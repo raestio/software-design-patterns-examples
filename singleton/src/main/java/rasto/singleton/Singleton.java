@@ -1,4 +1,4 @@
-package rasto.singletone;
+package rasto.singleton;
 
 public class Singleton {
 

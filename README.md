@@ -2,3 +2,5 @@
 [singleton](singleton)
 
 [flyweight](flyweight)
+
+[proxy](proxy)

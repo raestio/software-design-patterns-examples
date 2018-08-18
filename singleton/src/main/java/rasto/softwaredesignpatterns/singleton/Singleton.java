@@ -1,4 +1,4 @@
-package rasto.singleton;
+package rasto.softwaredesignpatterns.singleton;
 
 public class Singleton {
 

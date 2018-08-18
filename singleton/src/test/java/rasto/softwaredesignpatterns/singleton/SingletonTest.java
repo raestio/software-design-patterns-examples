@@ -1,4 +1,4 @@
-package rasto.singleton;
+package rasto.softwaredesignpatterns.singleton;
 
 import org.junit.Assert;
 import org.junit.Test;

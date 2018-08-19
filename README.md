@@ -10,3 +10,5 @@
 [iterator](iterator)
 
 [state](state)
+
+[template-method](template-method)

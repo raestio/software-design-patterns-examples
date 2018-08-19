@@ -1,14 +1,14 @@
 # Software design patterns examples
-[singleton](singleton)
+1. [singleton](singleton)
 
-[flyweight](flyweight)
+2. [flyweight](flyweight)
 
-[proxy](proxy)
+3. [proxy](proxy)
 
-[command](command)
+4. [command](command)
 
-[iterator](iterator)
+5. [iterator](iterator)
 
-[state](state)
+6. [state](state)
 
-[template-method](template-method)
+7. [template-method](template-method)

@@ -4,3 +4,5 @@
 [flyweight](flyweight)
 
 [proxy](proxy)
+
+[command](command)

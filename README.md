@@ -14,3 +14,5 @@
 7. [template-method](template-method)
 
 8. [facade](facade)
+
+9. [adapter](adapter)

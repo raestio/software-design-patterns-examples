@@ -12,3 +12,5 @@
 [state](state)
 
 [template-method](template-method)
+
+[facade](facade)

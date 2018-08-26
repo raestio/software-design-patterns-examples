@@ -18,3 +18,5 @@
 9. [adapter](adapter)
 
 10. [composite](composite)
+
+11. [factory-method](factory-method)

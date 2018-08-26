@@ -16,3 +16,5 @@
 8. [facade](facade)
 
 9. [adapter](adapter)
+
+10. [composite](composite)

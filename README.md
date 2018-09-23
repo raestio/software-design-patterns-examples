@@ -22,3 +22,5 @@
 11. [factory-method](factory-method)
 
 12. [prototype](prototype)
+
+13. [builder](builder)

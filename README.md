@@ -20,3 +20,5 @@
 10. [composite](composite)
 
 11. [factory-method](factory-method)
+
+12. [prototype](prototype)
